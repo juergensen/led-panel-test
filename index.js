@@ -33,3 +33,4 @@ function draw(con) {
 }
 
 draw(ctx);
+setInterval(()=>{},1)
